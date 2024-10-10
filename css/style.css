@@ -1,0 +1,166 @@
+#titlepage {
+    font-size:90px;
+}
+
+#titlepage:hover {
+    font-size:93px
+}
+
+#frontpagesources {
+    font-family:times;
+}
+
+.index {
+    text-align:right;
+    background-color:#ffccb6;
+    color:#f48a71;
+    font-family:comic;
+    margin-left:-25px;
+    margin-right:-25px;
+    a:hover {
+        box-shadow: inset 100px 0 0 0 #fcd5c5;
+        color:white;
+        }
+}
+
+.quote {
+    text-align:center;
+    font-family:comic;
+    font-size:30px;
+}
+
+.imagecite {
+    text-align:center;
+    font-size:15px;
+}
+
+.underline:hover {
+    color:#70457a
+}
+
+
+img {
+    
+    border-style:solid;
+	border-color:#fac9de;
+	border-width:10px;
+}
+
+/*photo movements - get bigger when hover*/
+
+.indeximgs:hover {
+    width:30%;
+    height:30%;
+}
+
+.careerimgs:hover {
+    width:25%;
+    height:25%;
+}
+
+.early-lifeimgs:hover {
+    width:40%;
+    height:40%;
+}
+
+.educationimgs:hover {
+    width:45%;
+    height:45%;
+}
+
+.funfactsimgs:hover {
+    width:35%;
+    height:45%;
+
+}
+
+#thisimgisdif:hover {
+    width:250;
+    height:400;
+}
+
+.significanceimgs:hover {
+    width:30%;
+    height:30%;
+}
+
+/*photo movements end*/
+
+
+h1 {
+    font-size:50px;
+    text-align:center;
+    font-family:times;
+    font-style:italic;
+    font-style:bold;
+    color:#543058;
+}
+
+h1:hover {
+    font-size:53px;
+}
+
+h2 {
+    color:#543058;
+    font-family:times;
+    font-style:italic;
+    font-size:35px;
+}
+
+h2:hover {
+    font-size:37px;
+}
+
+h3 {
+    color:#543058;
+    font-family:times;
+    font-style:times;
+    font-size:30px;
+}
+
+h3:hover {
+    font-size:32px;
+}
+
+p {
+    font-family:verdana;
+    color:#645068;
+    font-style:times;
+    font-size:20px;
+}
+
+a {
+    font-family:verdana;
+    color:#f48a71;
+}
+
+a:hover {
+    box-shadow: inset 100px 0 0 0 #ffdede;
+    color:#c694d1;
+}
+
+body {
+    background-color:#ffdede;
+    margin-right:30px;
+    margin-left:30px;
+    
+}
+
+li {
+    font-family:verdana;
+    color:#645068;
+    font-size:20px;
+}
+.center {
+    text-align: center;
+}
+table,th,td {
+    border:3px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+  margin-right: auto;
+}
+th {
+    font-style:italic;
+    color: #543058;
+}
